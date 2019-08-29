@@ -1,1 +1,12 @@
+#Ignore node moudles
 node_modules
+
+# Ignore Readme.txt
+readme.txt
+
+
+#ignore all txt files
+*.txt
+
+#sass cache
+.sass-cache
