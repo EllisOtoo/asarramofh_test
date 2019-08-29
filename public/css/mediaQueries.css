@@ -1,0 +1,12 @@
+@media (max-width: 1024px) {
+    .clientProfBoxes {
+        display: flex;
+        flex-direction: column;
+        display: none
+            /* 
+        grid-template-columns: 80vw;
+        grid-template-rows: 200px 200px 200px; */
+            /* display: none; */
+            /* display: none */
+    }
+}
